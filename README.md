@@ -71,8 +71,7 @@ NOTE: If the amount of accumulated rewards if less than indicated threshold, thi
 Example output for insufficient amount of rewards:
 
 node autopayout.js
-<pre>
- Khala Miner Rewards Auto Payout 
+Phala Miner Rewards Auto Payout 
 
  - Check source at https://github.com/jimiflowers/phala-miner-autopayout
 
