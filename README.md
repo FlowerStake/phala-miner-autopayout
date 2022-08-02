@@ -1,6 +1,6 @@
 # Khala Miner Rewards auto payout
 
-Claim and distribute StakePool rewards (if they are above threshold, default 100PHA) for you and your delegators automagically in Khala Network Secure Worker Mining.
+Claim and distribute StakePool rewards (if they are above threshold, default 100PHA) for stakepool owners and delegators automagically in Khala Network Secure Worker Mining.
 
 Made with ❤️  by FlowerStake (Jimi Flowers)
 
