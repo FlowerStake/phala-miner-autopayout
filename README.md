@@ -82,8 +82,8 @@ Phala Miner Rewards Auto Payout
  -> StakePool Owner address is 45K9ofasiFJUShfJASDIhgU97JFdf9DF7s9dfsd8
  -> Importing account 5FADjufadjfUIAD0re98fdf97fdf9d9faKDfud9of
  -> Connecting to wss://khala.api.onfinality.io/public-ws
-2022-07-13 21:44:11        REGISTRY: Unknown signed extensions CheckMqSequence found, treating them as no-effect
-2022-07-13 21:44:11        API/INIT: RPC methods not decorated: pha_getMqNextSequence, pha_getStorageChanges, pha_getStorageChangesAt
+2022-07-13 21:44:19        REGISTRY: Unknown signed extensions CheckMqSequence found, treating them as no-effect
+2022-07-13 21:44:19        API/INIT: RPC methods not decorated: pha_getMqNextSequence, pha_getStorageChanges, pha_getStorageChangesAt
  <b>Exiting: StakePool with ID 3501 doesn't have enough amount of rewards to trigger payout (23.74 PHA)</b>
 </pre>
 
