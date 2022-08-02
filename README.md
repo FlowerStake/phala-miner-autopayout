@@ -1,6 +1,6 @@
-# Khala Miner Rewards auto payout
+# Phala Miner Rewards auto payout
 
-Claim and distribute StakePool rewards (if they are above threshold, default 100PHA) for stakepool owners and delegators automagically in Khala Network Secure Worker Mining.
+Claim and distribute StakePool rewards (if they are above threshold, default 100PHA) for stakepool owners and delegators automagically in Phala Network Secure Worker Mining.
 
 Made with ❤️  by FlowerStake (Jimi Flowers)
 
@@ -11,8 +11,8 @@ Needs nodejs (>= v14.19.1), check https://nodejs.org/en/download/ to install for
 Clone the repository and install the needed dependencies:
 
 ```
-git clone https://github.com/FlowerStake/khala-miner-auto-payout.git
-cd khala-miner-auto-payout
+git clone https://github.com/jimiflowers/phala-miner-autopayout.git
+cd phala-miner-autopayout
 yarn
 ```
 
@@ -50,9 +50,9 @@ node autopayout.js
 Example output for Payout Success:
 
 <pre>
- Khala Miner Rewards Auto Payout 
+ Phala Miner Rewards Auto Payout 
 
- - Check source at https://github.com/FlowerStake/khala-miner-auto-payout
+ - Check source at https://github.com/jimiflowers/phala-miner-autopayout
 
  - Made with love from FlowerStake https://flowerstake.io/
 
@@ -74,7 +74,7 @@ node autopayout.js
 <pre>
  Khala Miner Rewards Auto Payout 
 
- - Check source at https://github.com/FlowerStake/khala-miner-auto-payout
+ - Check source at https://github.com/jimiflowers/phala-miner-autopayout
 
  - Made with love from FlowerStake https://flowerstake.io/
 
