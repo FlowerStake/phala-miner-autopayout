@@ -143,7 +143,6 @@ const main = async () => {
       process.exit(1);
     }
     console.log(`\x1b[1m -> StakePool with ID ${poolid} has enough accumulated rewards \x1b[0m\x1b[1;32m${ownerReward} PHA\x1b[0m`);
-    process.exit(0);
     console.log(`\x1b[1m -> Sending Rewards Payout to account \x1b[0m\x1b[1;32m${destinationAddress}\x1b[0m`);
     var nonce = await api.rpc.system.accountNextIndex(address);
     await api.tx.phalaStakePool.claimRewards(poolid,destinationAddress)
