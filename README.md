@@ -93,5 +93,7 @@ TODO: Adapt to Phala endpoint when available!
 
 ## WARNING: 
 **It's not a good idea to save JSON account and password in the same place, especially if the host is connected to Internet. Be
-sure that you have enough security meassures on the host where you are running this tool. This software is distributed as is with 
-no warranty. You are solely responsible of your account and your credentials.**
+sure that you have enough security meassures on the host where you are running this tool. You are solely responsible of your account and your credentials.**
+
+## **DISCLAIMER**
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
